@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Tình sử Võ Tắc Thiên</string>
+    <string name="str_start">Bắt đầu đọc truyện</string>
+    <string name="str_menu">Mục lục</string>
+    <string name="str_continue">Đọc tiếp</string>
+
+</resources>

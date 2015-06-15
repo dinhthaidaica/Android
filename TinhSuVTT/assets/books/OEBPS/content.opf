@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Tình sử Võ Tắc Thiên</dc:title>
+    <dc:creator>Lâm Ngữ Đường</dc:creator>
+    <dc:language>en-US</dc:language>
+    <dc:rights>Nguyễn Kim Vỹ</dc:rights>
+    <dc:publisher>Nguyễn Kim Vỹ - nguyenkimvy@gmail.com</dc:publisher>
+    <dc:identifier id="BookId">urn:uuid:vnthuquan.net:363312841</dc:identifier>
+    <dc:subject>Trung Hoa</dc:subject>
+    <dc:date>2011-04-22</dc:date>
+    <dc:description>Truyện: Tình sử Võ Tắc Thiên
+Tác giả: Lâm Ngữ Đường
+Tạo bởi: Nguyễn Kim Vỹ</dc:description>
+  </metadata>
+  <manifest>
+    <item id="item0" media-type="application/xhtml+xml" href="0.html">
+    </item>
+    <item id="item1" media-type="application/xhtml+xml" href="1.html">
+    </item>
+    <item id="item2" media-type="application/xhtml+xml" href="2.html">
+    </item>
+    <item id="item3" media-type="application/xhtml+xml" href="3.html">
+    </item>
+    <item id="item4" media-type="application/xhtml+xml" href="4.html">
+    </item>
+    <item id="item5" media-type="application/xhtml+xml" href="5.html">
+    </item>
+    <item id="item6" media-type="application/xhtml+xml" href="6.html">
+    </item>
+    <item id="item7" media-type="application/xhtml+xml" href="7.html">
+    </item>
+    <item id="item8" media-type="application/xhtml+xml" href="8.html">
+    </item>
+    <item id="item9" media-type="application/xhtml+xml" href="9.html">
+    </item>
+    <item id="item10" media-type="application/xhtml+xml" href="10.html">
+    </item>
+    <item id="item11" media-type="application/xhtml+xml" href="11.html">
+    </item>
+    <item id="item12" media-type="application/xhtml+xml" href="12.html">
+    </item>
+    <item id="item13" media-type="application/xhtml+xml" href="13.html">
+    </item>
+    <item id="item14" media-type="application/xhtml+xml" href="14.html">
+    </item>
+    <item id="item15" media-type="application/xhtml+xml" href="15.html">
+    </item>
+    <item id="item16" media-type="application/xhtml+xml" href="16.html">
+    </item>
+    <item id="item17" media-type="application/xhtml+xml" href="17.html">
+    </item>
+    <item id="item18" media-type="application/xhtml+xml" href="18.html">
+    </item>
+    <item id="item19" media-type="application/xhtml+xml" href="19.html">
+    </item>
+    <item id="item20" media-type="application/xhtml+xml" href="20.html">
+    </item>
+    <item id="item21" media-type="application/xhtml+xml" href="21.html">
+    </item>
+    <item id="item22" media-type="application/xhtml+xml" href="22.html">
+    </item>
+    <item id="item23" media-type="application/xhtml+xml" href="23.html">
+    </item>
+    <item id="item24" media-type="application/xhtml+xml" href="24.html">
+    </item>
+    <item id="item25" media-type="application/xhtml+xml" href="25.html">
+    </item>
+    <item id="mucluc" media-type="application/xhtml+xml" href="toc.html">
+    </item>
+    <item id="welcome" media-type="application/xhtml+xml" href="welcome.html">
+    </item>
+    <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+    <item id="lastpage" media-type="application/xhtml+xml" href="lastpage.html">
+    </item>
+    <item id="pagetemplate" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="welcome" />
+    <itemref idref="mucluc" />
+    <itemref idref="item0" />
+    <itemref idref="item1" />
+    <itemref idref="item2" />
+    <itemref idref="item3" />
+    <itemref idref="item4" />
+    <itemref idref="item5" />
+    <itemref idref="item6" />
+    <itemref idref="item7" />
+    <itemref idref="item8" />
+    <itemref idref="item9" />
+    <itemref idref="item10" />
+    <itemref idref="item11" />
+    <itemref idref="item12" />
+    <itemref idref="item13" />
+    <itemref idref="item14" />
+    <itemref idref="item15" />
+    <itemref idref="item16" />
+    <itemref idref="item17" />
+    <itemref idref="item18" />
+    <itemref idref="item19" />
+    <itemref idref="item20" />
+    <itemref idref="item21" />
+    <itemref idref="item22" />
+    <itemref idref="item23" />
+    <itemref idref="item24" />
+    <itemref idref="item25" />
+    <itemref idref="lastpage" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Mục lục" href="toc.html">
+    </reference>
+    <reference type="text" title="Giới thiệu" href="welcome.html">
+    </reference>
+  </guide>
+</package>
