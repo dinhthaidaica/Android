@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_main_layout">#F1F2F2</color>
+    <color name="color">#BE1E2D</color>
+    <color name="white">#ffffff</color>
+    <color name="gray_100">#EFEFEF</color>
+    <color name="gray_300">#DFDFDF</color>
+    <color name="gray">#B3ffffff</color>
+    <color name="red">#FF0202</color>
+    <color name="red_blur">#9F0000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="background_material_dark">#ff212121</color>
+    <color name="background_material_light">#fffafafa</color>
+    
+    <color name="ripple_material_light">#20444444</color>
+    <color name="ripple_material_dark">#20ffffff</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    
+    <color name="bhk_start1">#ff9AD2FF</color>
+    <color name="bhk_end1">#ffCDE9FF</color>
+    
+    
+<!--     <color name="material_yellow_100">#fff4c7c3</color>
+    <color name="material_yellow_300">#ffe67c73</color>
+    <color name="material_yellow_500">#ffdb4437</color>
+    <color name="material_yellow_700">#ffc53929</color>
+    <color name="material_yellow_A200">#ffff5252</color>
+    <color name="material_yellow_A400">#ffff1744</color> -->
+    <color name="material_blue_100">#ffc6dafc</color>
+    <color name="material_blue_300">#ff7baaf7</color>
+    <color name="material_blue_500">#ff4285f4</color>
+    <color name="material_blue_700">#ff3367d6</color>
+    <color name="material_blue_A200">#ff448aff</color>
+    <color name="material_blue_A400">#ff2979ff</color>
+    
+    <color name="material_light_blue_A200">#ff40c4ff</color>
+    
+    <color name="material_teal_100">#ffb2ebf2</color>
+    <color name="material_teal_300">#ff4dd0e1</color>
+    <color name="material_teal_500">#ff00bcd4</color>
+    <color name="material_teal_700">#ff0097a7</color>
+    <color name="material_teal_A200">#ff18ffff</color>
+    <color name="material_teal_A400">#ff00e5ff</color>
+    
+    <color name="material_dark_teal_A400">#ff009688</color>
+    
+    
+    <color name="material_green_100">#ffb7e1cd</color>
+    <color name="material_green_300">#ff57bb8a</color>
+    <color name="material_green_500">#ff0f9d58</color>
+    <color name="material_green_700">#ff0b8043</color>
+    <color name="material_green_A200">#ff69f0ae</color>
+    <color name="material_green_A400">#ff00e676</color>
+    <color name="green_deep">#575F00</color>
+    
+    <color name="material_lime_100">#fff0f4c3</color>
+    <color name="material_lime_300">#ffdce775</color>
+    <color name="material_lime_500">#ffcddc39</color>
+    <color name="material_lime_700">#ffafb42b</color>
+    <color name="material_lime_A200">#ffeeff41</color>
+    <color name="material_lime_A400">#ffc6ff00</color>
+    
+    
+    <color name="material_yellow_100">#fffce8b2</color>
+    <color name="material_yellow_300">#fff7cb4d</color>
+    <color name="material_yellow_500">#fff4b400</color>
+    <color name="material_yellow_700">#fff09300</color>
+    <color name="material_yellow_A200">#ffffcd40</color>
+    <color name="material_yellow_A400">#ffffbc00</color>
+    
+    
+    <color name="material_orange_100">#ffffe0b2</color>
+    <color name="material_orange_300">#ffffb74d</color>
+    <color name="material_orange_500">#ffff9800</color>
+    <color name="material_orange_700">#fff57c00</color>
+    <color name="material_orange_A200">#ffffab40</color>
+    <color name="material_orange_A400">#ffff9100</color>
+    
+    
+    <color name="material_deep_orange_100">#fff4c7c3</color>
+    <color name="material_deep_orange_300">#fff0f4c3</color>
+    <color name="material_deep_orange_500">#ffff5722</color>
+    <color name="material_deep_orange_700">#ffc53929</color>
+    <color name="material_deep_orange_A200">#ffff5252</color>
+    <color name="material_deep_orange_A400">#ffff1744</color>
+
+</resources>

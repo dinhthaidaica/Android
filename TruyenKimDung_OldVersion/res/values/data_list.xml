@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="story_title">
+        <item>@string/story_name_thien_long_bat_bo</item>
+        <item>@string/story_name_loc_dinh_ky</item>
+        <item>@string/story_name_anh_hung_xa_dieu</item>
+        <item>@string/story_name_than_dieu_dai_hiep</item>
+        <item>@string/story_name_y_thien_do_long_ky</item>
+        <item>@string/story_name_hiep_khach_hanh</item>
+        <item>@string/story_name_tieu_ngao_giang_ho</item>
+        <item>@string/story_name_bach_ma</item>
+        <item>@string/story_name_bich_huyet_kiem</item>
+        <item>@string/story_name_lien_thanh_quyet</item>
+        <item>@string/story_name_phi_ho_ngoai_truyen</item>
+        <item>@string/story_name_tuyet_son_phi_ho</item>
+        <item>@string/story_name_thu_kiem</item>
+        <item>@string/story_name_uyen_uong_dao</item>
+        <item>@string/story_name_viet_nu_kiem</item>
+        <!-- <item>@string/story_name_xa_dieu_tam_bo_khuc</item> -->
+        
+    </string-array>
+
+    <array name="story_images">
+        <item>@drawable/thien_long_bat_bo</item>
+        <item>@drawable/loc_dinh_ky</item>
+        <item>@drawable/anhhungxadieu</item>
+        <item>@drawable/thandieudaidiep2006</item>
+        <item>@drawable/y_thien_do_long_ky</item>
+        <item>@drawable/hiepkhachhanh</item>
+        <item>@drawable/tieungaogiangho</item>
+        <item>@drawable/bach_ma_khieu_tay_phong_2</item>
+        <item>@drawable/bich_huyet_kiem</item>
+        <item>@drawable/lienthanhquyet</item>
+        <item>@drawable/phihongoaitruyen</item>
+        <item>@drawable/tuyet_son_phi_ho</item>
+        <item>@drawable/thukiemancuuluc</item>
+        <item>@drawable/uyen_uong_dao</item>
+        <item>@drawable/vietnukiem</item>
+    </array>
+    
+    <string-array name="story_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        
+    </string-array>
+
+    <string-array name="story_description">
+        <item>@string/story_folder_name_thien_long_bat_bo</item>
+        <item>@string/story_folder_name_loc_dinh_ky</item>
+        <item>@string/story_folder_name_anh_hung_xa_dieu</item>
+        <item>@string/story_folder_name_than_dieu_dai_hiep</item>
+        <item>@string/story_folder_name_y_thien_do_long_ky</item>
+        <item>@string/story_folder_name_hiep_khach_hanh</item>
+        <item>@string/story_folder_name_tieu_ngao_giang_ho</item>
+        <item>@string/story_folder_name_bach_ma</item>
+        <item>@string/story_folder_name_bich_huyet_kiem</item>
+        <item>@string/story_folder_name_lien_thanh_quyet</item>
+        <item>@string/story_folder_name_phi_ho_ngoai_truyen</item>
+        <item>@string/story_folder_name_tuyet_son_phi_ho</item>
+        <item>@string/story_folder_name_thu_kiem</item>
+        <item>@string/story_folder_name_uyen_uong_dao</item>
+        <item>@string/story_folder_name_viet_nu_kiem</item>
+    </string-array>
+    
+    <string-array name="story_chapters">
+        <item>@string/hoi_0</item>
+        <item>@string/hoi_1</item>
+        <item>@string/hoi_2</item>
+        <item>@string/hoi_3</item>
+        <item>@string/hoi_4</item>
+        <item>@string/hoi_5</item>
+        <item>@string/hoi_6</item>
+        <item>@string/hoi_7</item>
+        <item>@string/hoi_8</item>
+        <item>@string/hoi_9</item>
+        <item>@string/hoi_10</item>
+        <item>@string/hoi_11</item>
+        <item>@string/hoi_12</item>
+        <item>@string/hoi_13</item>
+    </string-array>
+    
+        <string-array name="story_chapters_name_ldk">
+        <item>@string/ldk_0</item>
+        <item>@string/ldk_1</item>
+        <item>@string/ldk_2</item>
+        <item>@string/ldk_3</item>
+        <item>@string/ldk_4</item>
+        <item>@string/ldk_5</item>
+        <item>@string/ldk_6</item>
+        <item>@string/ldk_7</item>
+        <item>@string/ldk_8</item>
+        <item>@string/ldk_9</item>
+        <item>@string/ldk_10</item>
+        <item>@string/ldk_11</item>
+        <item>@string/ldk_12</item>
+        <item>@string/ldk_13</item>
+    </string-array>
+</resources>

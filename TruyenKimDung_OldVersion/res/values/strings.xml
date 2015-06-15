@@ -1,0 +1,97 @@
+<resources>
+
+    <string name="app_name">Kim Dung Toan Truyen</string>
+    <string name="main_start"> Bắt đầu đọc truyện </string>
+    <string name="main_continue"> Đến trang đang đọc </string>
+    <string name="main_bookmark"> Trang đánh dấu </string>
+    <string name="warning_update"> Truyện đang được cập nhật </string>
+    <string name="open_guidline"> Tóm tắt truyện </string>
+    <string name="close_guidline"> Ẩn tóm tắt truyện </string>
+    <string name="can_not_found_msg"> Không tìm thấy trang </string>
+    <string name="double_tap_msg"> Chạm 2 lần vào màn hình để chuyển trang </string>
+    <string name="volume_key_press_msg"> Dùng phím tăng giảm âm lượng để điều chỉnh font chữ </string>
+    <string name="no_pre_msg"> Không có phần trước </string>
+    <string name="no_next_msg"> Không có phần tiếp theo </string>
+
+    <!-- Tên truyện -->
+    <string name="story_name_anh_hung_xa_dieu"> Anh hùng xạ điêu (Xạ điêu anh hùng truyện)</string>
+    <string name="story_name_bach_ma"> Bạch mã khiếu tây phong </string>
+    <string name="story_name_bich_huyet_kiem"> Bích huyết kiếm </string>
+    <string name="story_name_hiep_khach_hanh"> Hiệp khách hành </string>
+    <string name="story_name_lien_thanh_quyet"> Liên thành quyết </string>
+    <string name="story_name_loc_dinh_ky"> Lộc Đỉnh ký (Lộc đỉnh Công)</string>
+    <string name="story_name_phi_ho_ngoai_truyen"> Phi hồ ngoại truyện (Lãnh nguyệt bảo đao)</string>
+    <string name="story_name_than_dieu_dai_hiep"> Thần điêu hiệp lữ (Thần điêu đại hiệp)</string>
+    <string name="story_name_thien_long_bat_bo"> Thiên long bát bộ (Lục mạch thần kiếm)</string>
+    <string name="story_name_thu_kiem"> Thư kiếm ân cừu lục </string>
+    <string name="story_name_tuyet_son_phi_ho"> Tuyết sơn phi hồ </string>
+    <string name="story_name_uyen_uong_dao"> Uyên ương đao </string>
+    <string name="story_name_viet_nu_kiem"> Việt nữ kiếm </string>
+    <string name="story_name_xa_dieu_tam_bo_khuc"> Xạ điêu tam bộ khúc </string>
+    <string name="story_name_y_thien_do_long_ky"> Ỷ thiên đồ long ký (Cô gái đồ long)</string>
+     <string name="story_name_tieu_ngao_giang_ho"> Tiếu ngạo giang hồ </string>
+
+    <!-- Tên folder của truyện -->
+    <string name="story_folder_name_anh_hung_xa_dieu">anhhungxadieu</string>
+    <string name="story_folder_name_bach_ma">bachmakhieutayphong</string>
+    <string name="story_folder_name_bich_huyet_kiem">bichhuyetkiem</string>
+    <string name="story_folder_name_hiep_khach_hanh">hiepkhachhanh</string>
+    <string name="story_folder_name_lien_thanh_quyet">lienthanhquyet</string>
+    <string name="story_folder_name_loc_dinh_ky">locdinhky</string>
+    <string name="story_folder_name_phi_ho_ngoai_truyen">phihongoaitruyen</string>
+    <string name="story_folder_name_than_dieu_dai_hiep">thandieuhieplu</string>
+    <string name="story_folder_name_thien_long_bat_bo">thienlongbatbo</string>
+    <string name="story_folder_name_thu_kiem">thukiemancuuluc</string>
+    <string name="story_folder_name_tuyet_son_phi_ho">tuyetsonphiho</string>
+    <string name="story_folder_name_uyen_uong_dao">uyenuongdao</string>
+    <string name="story_folder_name_viet_nu_kiem">vietnukiem</string>
+    <string name="story_folder_name_xa_dieu_tam_bo_khuc">/</string>
+    <string name="story_folder_name_y_thien_do_long_ky">ythiendolongky</string>
+    <string name="story_folder_name_tieu_ngao_giang_ho">tieungaogiangho</string>
+    
+    <!-- Các hồi -->
+    <string name="hoi_0">Phi lộ</string>
+    <string name="hoi_1">Hồi 1</string>
+    <string name="hoi_2">Hồi 2</string>
+    <string name="hoi_3">Hồi 3</string>
+    <string name="hoi_4">Hồi 4</string>
+    <string name="hoi_5">Hồi 5</string>
+    <string name="hoi_6">Hồi 6</string>
+    <string name="hoi_7">Hồi 7</string>
+    <string name="hoi_8">Hồi 8</string>
+    <string name="hoi_9">Hồi 9</string>
+    <string name="hoi_10">Hồi 10</string>
+    <string name="hoi_11">Hồi 11</string>
+    <string name="hoi_12">Hồi 12</string>
+    <string name="hoi_13">Hồi 13</string>
+    <string name="hoi_14">Hồi 14</string>
+    <string name="hoi_15">Hồi 15</string>
+    <string name="hoi_16">Hồi 16</string>
+    <string name="hoi_17">Hồi 17</string>
+    <string name="hoi_18">Hồi 18</string>
+    <string name="hoi_19">Hồi 19</string>
+    <string name="hoi_20">Hồi 20</string>
+    
+    
+    <!-- Lộc đỉnh ký -->
+    <string name="ldk_0"></string>
+    <string name="ldk_1">Chốn phồn hoa bạo khách lần vào</string>
+    <string name="ldk_2">Nghe tiếng khóc cường địch mắc mưu</string>
+    <string name="ldk_3">Ba hảo hán đại chiến quan binh</string>
+    <string name="ldk_4">Vi Tiểu Bảo dùng mưu khích tướng</string>
+    <string name="ldk_5">Có bản lãnh mới là tay hào kiệt</string>
+    <string name="ldk_6">Đồng Giác quá giang, hỏa tiễn xạ tượng</string>
+    <string name="ldk_7">Trong tửu quán vi, Mao bị bắt</string>
+    <string name="ldk_8">Uống nhiều thuốc, Hải Công hư mắt</string>
+    <string name="ldk_9">Vi Tiểu Bảo lừng danh đánh bạc</string>
+    <string name="ldk_10">Hết đánh bạc lại đánh đô vật</string>
+    <string name="ldk_11">Hải Lão Công mưu đồ đánh cắp ngự thư</string>
+    <string name="ldk_12">Vi Tiểu Bảo dò la Hải Lão</string>
+    <string name="ldk_13">Tiểu hảo kiệt thám thính thư phòng</string>
+    <string name="ldk_14">Tiểu Huyền Tử bại lộ hành tung</string>
+    <string name="ldk_15">Vua Khang Hy quyết chí trị quyền thần</string>
+    <string name="ldk_16">Đại từ đại bi Thiên Diệp Chủ</string>
+    <string name="ldk_17"></string>
+    
+
+</resources>
